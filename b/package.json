@@ -1,0 +1,6 @@
+{
+  "name": "b",
+  "dependencies": {
+    "eslint": "github:discord/eslint"
+  }
+}
